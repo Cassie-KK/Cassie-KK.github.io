@@ -1,7 +1,7 @@
 ---
 title: "Quantitative assessment of the role of undocumented infection in the 2019 novel coronavirus (COVID-19) pandemic."
 collection: publications
-category: pre-prints
+category: preprints
 permalink: /publication/2020-Arxiv
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-01-01
