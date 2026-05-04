@@ -3,7 +3,7 @@ title: "Learning epidemic threshold in complex networks by convolutional neural 
 collection: publications
 category: manuscripts
 permalink: /publication/2019-chaos
-date: 2019
+date: 2019-01-01
 venue: 'Chaos'
 paperurl: 'https://arxiv.org/pdf/1911.07281'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
