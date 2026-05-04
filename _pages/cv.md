@@ -60,3 +60,5 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 
 -->
+
+You can download my CV here: [CV](/files/cv.pdf).
