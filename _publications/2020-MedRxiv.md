@@ -1,7 +1,7 @@
 ---
 title: "State-by-State prediction of likely COVID-19 scenarios in the United States and assessment of the role of testing and control measures"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2020-MedRxiv
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2020-01-01
