@@ -29,6 +29,6 @@ My research lies at the intersection of **deep learning**, **complex systems**, 
    *State-by-State prediction of COVID-19 scenarios in the U.S.*  
    medRxiv (2020)
 
-## 📄 Hobbies
+## 🧸 Hobbies
 
 🐱Cat, 🀄️Mahjong, ♠️Poker, 🍳Cook, ⛺ Travel, 🎵 Music, 🎬Movie
