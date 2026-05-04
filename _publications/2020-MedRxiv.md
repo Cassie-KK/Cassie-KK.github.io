@@ -3,7 +3,7 @@ title: "State-by-State prediction of likely COVID-19 scenarios in the United Sta
 collection: publications
 category: conferences
 permalink: /publication/2020-MedRxiv
-# excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about fixing template issue #693.'
 date: 2020
 venue: 'MedRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2020.04.24.20078774v1.full.pdf'
