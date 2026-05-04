@@ -9,7 +9,7 @@ redirect_from:
 
 I am Jie(Cassie) Kang, 康洁 in Chinese, an M.E. in Systems Engineering at the University of Virginia. Previously, I earned my first master's degree at East China Normal University, advised by Prof. Ming Tang.
 
-My research lies at the intersection of machine learning, complex systems, and modern large language models (LLMs).
+My research lies at the intersection of **deep learning**, **complex systems**, and **modern large language models (LLMs)**.
 
 ## 📄 Publications
 ---
