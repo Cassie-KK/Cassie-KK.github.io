@@ -12,7 +12,7 @@ I am Jie(Cassie) Kang, 康洁 in Chinese, an M.E. in Systems Engineering at the 
 My research lies at the intersection of **deep learning**, **complex systems**, and **modern large language models (LLMs)**.
 
 ## 📄 Publications
----
+
 1. Qi Ni, **Jie Kang**, Ming Tang, et al.  
    *Learning epidemic threshold in complex networks by convolutional neural network.*  
    Chaos (2019)
@@ -30,4 +30,5 @@ My research lies at the intersection of **deep learning**, **complex systems**, 
    medRxiv (2020)
 
 ## 📄 Hobbies
+
 🐱Cat, 🀄️Mahjong, ♠️Poker, 🍳Cook, ⛺ Travel, 🎵 Music, 🎬Movie
