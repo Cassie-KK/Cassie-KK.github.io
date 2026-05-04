@@ -1,7 +1,7 @@
 ---
 title: "Supervised Learning Epidemic Threshold of SIR Model in Complex Networks."
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2020-icwca
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-01-01
