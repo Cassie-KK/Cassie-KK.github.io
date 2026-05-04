@@ -11,36 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.E. in System Engineering, University of Virginia, 2025 - Present
+* M.S. in Communication and Information System, East China Normal University, 2018 - 2021
+* B.S. in Electronic Information Engineering, Nanjing Forestry University, 2014 - 2018
+* B.S. in Financial accounting and auditing, Nanjing Forestry University, 2014 - 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Noah Holding, Shanghai, China (Jun 2021 - Aug 2024)
+  * Big Data Center – Data Analyst
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Microsoft, Shanghai, China (Dec 2019 - Sep 2020)
+  * Dynamics 365 - Support Engineer Intern
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Huatai Securities, Shanghai, China (May 2018 - May 2018)
+  * Xianxia Road Business Department - Branch Intern
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
+* SQL
+* C/C++
+* Tableau
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +58,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
